@@ -50,3 +50,9 @@ if keyboard_check(vk_down) {
 		y = room_height - 20
 	}
 }
+
+if hp <=0{
+	audio_play_sound(AAAIYYYYYYAAAAAAAAAAAA, 0, false);
+	instance_destroy();
+}
+	
