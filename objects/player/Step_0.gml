@@ -50,6 +50,3 @@ if keyboard_check(vk_down) {
 		y = room_height - 20
 	}
 }
-
-instance_create_layer(x,y, "Instances", bullet)
-
