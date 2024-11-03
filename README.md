@@ -9,3 +9,6 @@
 )
 
 [Bullet Hell Pattern Code](https://www.youtube.com/watch?v=zEPgFaIpa6o&list=PL_hT--4HOvreUXehK2t8y7sQyWCZ7bJ8p&index=26)
+
+
+[Health Bar Code](https://www.dragonflydb.io/faq/gamemaker-create-health-bar)
