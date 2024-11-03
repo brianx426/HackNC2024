@@ -1,10 +1,12 @@
 # Budget-Touhou
 
-##Controls
+## Controls
 Move with the arrow keys
 Push/Hold space to shoot
 Hold shift to slow down
 
+## Demo
+https://www.youtube.com/watch?v=b8fi6ctIB2o
  
 ## Outside sources
 
