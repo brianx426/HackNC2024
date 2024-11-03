@@ -8,3 +8,4 @@ if not invincible {
 if hp <= 0 {
 	instance_destroy()
 }
+audio_play_sound(doit, 0, false);
