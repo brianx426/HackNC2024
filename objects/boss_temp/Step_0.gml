@@ -14,7 +14,7 @@ if hp <= maxhp{
 	
 
 	if time % rate == 0 {
-		instance_create_layer(x,y, "Instances", enemy_bullet);
+		instance_create_layer(x,y, "Instances", enemy_BossBullet);
 	}
 	time++;
 }
@@ -23,7 +23,7 @@ if hp <= maxhp{
 if hp <= (3*maxhp/4){
 	rate = 20;
 	if time % fantime == 0{
-		var shot_count = 15;
+		var shot_count = 20;
 		var fan_start = 210;
 		var fan_end = 330;
 		for (var i = fan_start; i <= fan_end; i += (fan_end - fan_start) / shot_count) {
