@@ -1,7 +1,9 @@
 # Budget-Touhou
 
-
-
+##Controls
+Move with the arrow keys
+Push/Hold space to shoot
+Hold shift to slow down
 
  
 ## Outside sources
