@@ -14,7 +14,7 @@ if hp <= maxhp{
 	
 
 	if time % rate == 0 {
-		instance_create_layer(x,y, "Instances", enemy_bullet);
+		instance_create_layer(x,y, "Instances", enemy_BossBullet);
 	}
 	time++;
 }

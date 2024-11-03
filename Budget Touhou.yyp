@@ -45,7 +45,7 @@
     {"id":{"name":"button_quit","path":"objects/button_quit/button_quit.yy",},},
     {"id":{"name":"button_return","path":"objects/button_return/button_return.yy",},},
     {"id":{"name":"enemy_ball","path":"objects/enemy_ball/enemy_ball.yy",},},
-    {"id":{"name":"enemy_bullet","path":"objects/enemy_bullet/enemy_bullet.yy",},},
+    {"id":{"name":"enemy_BossBullet","path":"objects/enemy_BossBullet/enemy_BossBullet.yy",},},
     {"id":{"name":"EnemyHPBar","path":"objects/EnemyHPBar/EnemyHPBar.yy",},},
     {"id":{"name":"explod_obj","path":"objects/explod_obj/explod_obj.yy",},},
     {"id":{"name":"explod_obj2","path":"objects/explod_obj2/explod_obj2.yy",},},
