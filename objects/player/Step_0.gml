@@ -50,3 +50,11 @@ if keyboard_check(vk_down) {
 		y = room_height - 20
 	}
 }
+
+if invincible {
+	invincible_timer++
+	if invincible_timer > 75 {
+		invincible = false
+		invincible_timer = 0
+	}
+}
