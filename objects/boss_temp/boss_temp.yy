@@ -32,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"flandre_sprite",
+    "path":"sprites/flandre_sprite/flandre_sprite.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

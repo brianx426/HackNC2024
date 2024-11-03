@@ -52,19 +52,11 @@ if hp > 0{
 		}
 	}
 }
-//if hp <=0{
-//	vspeed = 0;
-//	hspeed = 0;
-//	audio_stop_all()
-//	instance_create_layer(x, y, "Instances", explod_obj);
-//	instance_destroy(player);
-//}
-	
-
-if invincible {
-	invincible_timer++
-	if invincible_timer > 75 {
-		invincible = false
-		invincible_timer = 0
-	}
+if hp <=0{
+	vspeed = 0;
+	hspeed = 0;
+	audio_stop_all()
+	instance_create_layer(x, y, "Instances", explod_obj);
+	instance_destroy(player);
 }
+	

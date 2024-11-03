@@ -1,30 +1,11 @@
 {
   "$GMRoom":"v1",
-<<<<<<<< HEAD:rooms/Wave1/Wave1.yy
-  "%Name":"Wave1",
-  "creationCodeFile":"rooms/Wave1/RoomCreationCode.gml",
-========
   "%Name":"game",
   "creationCodeFile":"rooms/game/RoomCreationCode.gml",
->>>>>>>> d50cfb42dd67da87a2e6e2fb5410cdb060fb5699:rooms/game/game.yy
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-<<<<<<<< HEAD:rooms/Wave1/Wave1.yy
-    {"name":"inst_31BF11AC","path":"rooms/Wave1/Wave1.yy",},
-    {"name":"inst_2F8994CF","path":"rooms/Wave1/Wave1.yy",},
-    {"name":"inst_26653AEA","path":"rooms/Wave1/Wave1.yy",},
-    {"name":"inst_67B7433B","path":"rooms/Wave1/Wave1.yy",},
-  ],
-  "isDnd":false,
-  "layers":[
-    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_31BF11AC","colour":4294911714,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":60,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31BF11AC","objectId":{"name":"player","path":"objects/player/player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":90.0,"scaleX":0.6,"scaleY":0.5,"x":400.0,"y":1100.0,},
-        {"$GMRInstance":"v1","%Name":"inst_2F8994CF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F8994CF","objectId":{"name":"health_bar","path":"objects/health_bar/health_bar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":16.0,},
-        {"$GMRInstance":"v1","%Name":"inst_26653AEA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26653AEA","objectId":{"name":"wave_1_spawner","path":"objects/wave_1_spawner/wave_1_spawner.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":704.0,},
-        {"$GMRInstance":"v1","%Name":"inst_67B7433B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67B7433B","objectId":{"name":"wave_tracker","path":"objects/wave_tracker/wave_tracker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":320.0,},
-========
     {"name":"inst_27AB8010","path":"rooms/game/game.yy",},
     {"name":"inst_75AA6265","path":"rooms/game/game.yy",},
     {"name":"inst_3BD57F5C","path":"rooms/game/game.yy",},
@@ -37,15 +18,10 @@
         {"$GMRInstance":"v1","%Name":"inst_27AB8010","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_27AB8010","objectId":{"name":"boss_temp","path":"objects/boss_temp/boss_temp.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":160.0,},
         {"$GMRInstance":"v1","%Name":"inst_75AA6265","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75AA6265","objectId":{"name":"EnemyHPBar","path":"objects/EnemyHPBar/EnemyHPBar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":561.0,"y":25.0,},
         {"$GMRInstance":"v1","%Name":"inst_F9C306","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F9C306","objectId":{"name":"PlayerHPBar","path":"objects/PlayerHPBar/PlayerHPBar.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":26.0,"y":25.0,},
->>>>>>>> d50cfb42dd67da87a2e6e2fb5410cdb060fb5699:rooms/game/game.yy
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"bg1","path":"sprites/bg1/bg1.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-<<<<<<<< HEAD:rooms/Wave1/Wave1.yy
-  "name":"Wave1",
-========
   "name":"game",
->>>>>>>> d50cfb42dd67da87a2e6e2fb5410cdb060fb5699:rooms/game/game.yy
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
@@ -63,7 +39,7 @@
   "roomSettings":{
     "Height":1200,
     "inheritRoomSettings":false,
-    "persistent":true,
+    "persistent":false,
     "Width":800,
   },
   "sequenceId":null,
